@@ -91,6 +91,10 @@ body {
     text-decoration: none;
 }
 
+.contact-info ul li a:hover {
+    color: #FDB44B;
+}
+
 .contact-info ul li,
 .contact-info ul li a,
 .references ul li {
